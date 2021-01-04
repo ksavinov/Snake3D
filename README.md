@@ -1,4 +1,4 @@
-Snake 3D, made with Ursina Engine.
+Snake 3D, made for educational purposes using Ursina Engine.
 
 Controls:
 - **"W"** - Up
